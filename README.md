@@ -32,7 +32,7 @@
 - **Storage**: Amazon S3 (미디어 파일)
 - **CDN**: CloudFront
 - **GitOps**: ArgoCD + Kustomize
-- **Observability**: CloudWatch Logs + Grafana
+- **Observability**: CloudWatch Logs + CloudTrail + Grafana
 
 ### 주요 특징
 - **클라우드 네이티브**: Kubernetes 기반 컨테이너 오케스트레이션
